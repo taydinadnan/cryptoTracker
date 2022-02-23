@@ -4,7 +4,7 @@ A new Flutter project.
 
 <a href="appscreenshot/Simulator Screen Shot - iPhone 12 Pro Max - 2022-02-23 at 22.21.52.png"></a>
 
-<img align="right" width="720" height="1280" src="appscreenshot/Simulator Screen Shot - iPhone 12 Pro Max - 2022-02-23 at 22.21.52.png">
+<img align="center" width="720" height="1280" src="appscreenshot/Simulator Screen Shot - iPhone 12 Pro Max - 2022-02-23 at 22.21.52.png">
 
 ## Getting Started
 
